@@ -58,12 +58,13 @@ Large-scale pre-trained image-text models exhibit robust multimodal representati
 
 
 ```bibtex
-@inproceedings{nguyen2026souple,
-  title={SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts},
-  author={Nguyen, Khanh Binh and Park, Chae Jung},
-  booktitle={2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026},
-  organization={IEEE}
+@InProceedings{Nguyen_2026_CVPR,
+    author    = {Nguyen, Khanh Binh and Park, Chae Jung},
+    title     = {SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {8674-8683}
 }
 ```
 
